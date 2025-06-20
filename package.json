@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/anfaku/andifajar-Google-Gen-AI/issues"
   },
-  "homepage": "https://github.com/anfaku/andifajar-Google-Gen-AI#readme"
+  "homepage": "https://github.com/anfaku/andifajar-Google-Gen-AI#readme",
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  }
 }
